@@ -350,6 +350,23 @@ div {
     font-size: 18px;
 }
 
+.arsalanPassDiv{
+    width: 80%;
+    height: 300px;
+}
+
+.arsalanPassDetails{
+    width: 80%;
+    height: 280px;
+    border-radius: 5px;
+    margin: 1% auto auto 1%;
+    background-image: linear-gradient( to bottom right, rgb(240, 240, 240), rgb(141, 141, 141));
+}
+
+.arsalanPassImage{
+    
+}
+
 @media only screen and (max-width: 768px) {
     .searchDisplay1 {
         background-color: rgb(0, 255, 98);
@@ -421,5 +438,5 @@ div {
 /* Handle on hover */
 
  ::-webkit-scrollbar-thumb:hover {
-    background: rgb(0, 255, 213);
+    background: rgb(0, 190, 159);
 }
