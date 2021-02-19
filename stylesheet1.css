@@ -364,9 +364,9 @@ div {
 }
 
 .arsalanPassImage{
+    width: 19%;
     height: 280px;
-    width: 20%;
-    
+    margin: -280px auto auto 93%;
 }
 
 @media only screen and (max-width: 768px) {
